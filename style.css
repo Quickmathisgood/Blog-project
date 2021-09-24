@@ -1,10 +1,9 @@
 .head{
     text-align: center;
+    font-size: 50px
 }
-body {
-    background-color:red;
-    color: royalblue;
-    font-size: 25
-    ;
-}
-h1{color:black}
+.Blog 1{
+    background-color: white;
+    text-align: center;
+    font-size: 30px
+} 
